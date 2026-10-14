@@ -1,0 +1,6 @@
+{
+  "name": "Streaks+",
+  "description": "Motivating habit tracker with streak flames, calendar heatmaps, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
